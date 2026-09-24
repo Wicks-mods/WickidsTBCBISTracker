@@ -27,6 +27,14 @@ local SUITE = {
     { folder = "WicksLedger", title = "Wick's Ledger", tagline = "Session earnings tracker with AH-priced loot", slug = "wicks-ledger" },
     { folder = "WicksWardrobe", title = "Wick's Wardrobe", tagline = "Tier set and weapon preview browser", slug = "wicks-wardrobe" },
     { folder = "WicksSurvivors", title = "Wick's Survivors", tagline = "Vampire Survivors-style wave survival minigame", slug = "wicks-survivors" },
+    { folder = "WickCore", title = "WickCore", tagline = "The floor everything else stands on.", slug = "wickcore" },
+    { folder = "WicksComforts", title = "Wick's Comforts", tagline = "Small comforts, each one off until you turn it on.", slug = "wicks-comforts" },
+    { folder = "WicksBeastsAndThings", title = "Wick's Beasts and Things", tagline = "The hunter kit: pet care, ammo and a beast atlas.", slug = "wicks-beasts-and-things" },
+    { folder = "WicksStancesAndThings", title = "Wick's Stances and Things", tagline = "The warrior kit: three stances and a smart key.", slug = "wicks-stances-and-things" },
+    { folder = "WicksConjuresAndThings", title = "Wick's Conjures and Things", tagline = "The mage kit: rations, reagents and every portal you know.", slug = "wicks-conjures-and-things" },
+    { folder = "WicksBags", title = "Wick's Bags", tagline = "Bags and bank in one window, sorted the way you say.", slug = "wicks-bags" },
+    { folder = "WicksTradeHall", title = "Wick's Trade Hall", tagline = "What a run earned, and what trade chat is offering.", slug = "trade-hall" },
+    { folder = "WicksGear", title = "Wick's Gear", tagline = "What to chase while levelling, and where it drops.", slug = "wicks-gear" },
 }
 -- wick:suite-data:end
 
