@@ -36,6 +36,7 @@ local SUITE = {
     { folder = "WicksBags", title = "Wick's Bags", tagline = "Bags and bank in one window, sorted the way you say.", slug = "wicks-bags" },
     { folder = "WicksTradeHall", title = "Wick's Trade Hall", tagline = "What a run earned, and what trade chat is offering.", slug = "trade-hall" },
     { folder = "WicksGear", title = "Wick's Gear", tagline = "What to chase while levelling, and where it drops.", slug = "wicks-gear" },
+    { folder = "WicksUI", title = "Wick's UI", tagline = "The whole interface, in one look.", slug = "wicks-ui" },
 }
 -- wick:suite-data:end
 
