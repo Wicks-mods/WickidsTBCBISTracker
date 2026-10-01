@@ -1,5 +1,12 @@
 # Wick's TBC BIS Tracker — Changelog
 
+## 2.1.1 - 2026-10-01
+
+### Fixed
+
+- Loads on the 2.5.6 client without being marked out of date. The addon
+  now lists interface 20506 alongside 20505.
+
 ## 2.1.0 — 2026-09-03
 
 ### Phase 3 content pass — Black Temple and Mount Hyjal
