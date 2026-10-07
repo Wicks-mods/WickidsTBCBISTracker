@@ -31,6 +31,7 @@ local SUITE = {
     { folder = "WicksComforts", title = "Wick's Comforts", tagline = "Small comforts, each one off until you turn it on.", slug = "wicks-comforts" },
     { folder = "WicksDemonsAndThings", title = "Wick's Demons and Things", tagline = "Warlock bars: stones, demons, cooldowns and shards.", slug = "wicks-demons-and-things" },
     { folder = "WicksUI", title = "Wick's UI", tagline = "The whole interface, in one look.", slug = "wicks-ui" },
+    { folder = "WicksReminders", title = "Wick's Reminders", tagline = "Timers, alarms and reminders that keep counting", slug = "wicks-reminders" },
 }
 -- wick:suite-data:end
 
